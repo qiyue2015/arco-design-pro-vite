@@ -32,11 +32,9 @@
   .success-wrap {
     text-align: center;
   }
-
   :deep(.arco-result) {
     padding-top: 0;
   }
-
   .details-wrapper {
     width: 895px;
     margin-top: 54px;

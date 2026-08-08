@@ -46,9 +46,8 @@
 
 <style scoped lang="less">
   .container {
-    padding: 0 20px 20px;
+    padding: 0 20px 20px 20px;
   }
-
   .wrapper {
     padding: 24px 150px;
     background-color: var(--color-bg-2);
@@ -56,7 +55,7 @@
   }
 
   .result {
-    margin: 150px 0 36px;
+    margin: 150px 0 36px 0;
   }
 
   .operation-wrap {

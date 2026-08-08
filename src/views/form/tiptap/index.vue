@@ -52,7 +52,7 @@
 
 <style scoped lang="less">
   .container {
-    padding: 0 20px 40px;
+    padding: 0 20px 40px 20px;
     overflow: hidden;
   }
 </style>

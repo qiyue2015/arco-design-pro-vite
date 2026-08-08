@@ -131,7 +131,6 @@
 <style scoped lang="less">
   .item-container {
     padding-top: 20px;
-
     :deep(.arco-descriptions-item-label) {
       font-weight: normal;
     }
