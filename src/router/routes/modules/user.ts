@@ -22,6 +22,7 @@ const USER: AppRouteRecordRaw = {
         roles: ['*'],
       },
     },
+
     {
       path: 'authentication',
       name: 'Authentication',

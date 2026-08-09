@@ -3,6 +3,7 @@ import localeLogin from '@/views/auth/locale/en-US';
 
 import localeWorkplace from '@/views/dashboard/workplace/locale/en-US';
 import localeUserInfo from '@/views/user/info/locale/en-US';
+
 import localeUserAuthentication from '@/views/user/authentication/locale/en-US';
 
 import localeSearchTable from '@/views/list/search-table/locale/en-US';
@@ -44,6 +45,7 @@ export default {
   ...localeLogin,
   ...localeWorkplace,
   ...localeUserInfo,
+
   ...localeUserAuthentication,
 
   ...localeSearchTable,
